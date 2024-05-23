@@ -1,0 +1,12 @@
+{
+    "empty": {
+        "Description": "It's an empty room"
+    },
+
+    "monsters": {
+        "Description": "Prepare for Battle!",
+        "monsterTypes": ["goblin"],
+        "minimun": 1,
+        "maximun": 4
+    }
+}
